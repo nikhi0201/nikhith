@@ -86,15 +86,6 @@ with a strong focus on **clean architecture, performance, and real-world impact*
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nikhi0201&show_icons=true&hide_border=true&theme=transparent" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-languages/?username=nikhi0201&layout=compact&hide_border=true&theme=transparent" />
-</div>
-
----
-
 ## 🧪 Currently Working On
 
 - Building reusable frontend systems
@@ -107,7 +98,7 @@ with a strong focus on **clean architecture, performance, and real-world impact*
 ## 📫 Let’s Connect
 
 - GitHub: https://github.com/nikhi0201
-- LinkedIn: https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/nikhith-tangadipally-3363a4293/
+- LinkedIn: https://www.linkedin.com/in/nikhith-tangadipally-3363a4293/
 - Email: nikki020106@gmail.com
 
 ---
