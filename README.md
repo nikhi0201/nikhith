@@ -1,22 +1,117 @@
-## Hi 👋, I'm Nikki
+<div align="center">
 
-🎓 B.Tech Student | 💻 MERN Stack Developer | 🚀 Aspiring Software Engineer
+# 👋 Hi, I'm Nikki
 
-I build scalable full-stack applications using React, Next.js, Node.js, and MongoDB.
-Currently working as a MERN Stack Developer Intern and focused on building real-world, production-grade systems.
+### Full Stack Engineer | MERN • Next.js • Scalable Web Systems
 
-### 🛠️ Tech Stack
-- Frontend: React.js, Next.js, Tailwind CSS
-- Backend: Node.js, Express.js
-- Database: MongoDB
-- Tools: Git, GitHub, CI/CD, REST APIs
+I design, build, and ship **production-grade full-stack applications**  
+with a strong focus on **clean architecture, performance, and real-world impact**.
 
-### 📌 Projects
-- **SmartResume** – Full-stack resume builder with authentication
-- **Carbon Footprint Calculator** – Interactive frontend with real-time insights
+<a href="https://www.linkedin.com/in/YOUR_LINK">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
 
-### 📫 Connect with me
-- LinkedIn: *(add link)*
-- Email: *(optional)*
+</div>
+
+---
+
+## 🧩 Engineering Focus
+
+- Architecting **end-to-end full-stack applications**
+- Writing **scalable, maintainable, and testable code**
+- Building **REST APIs and modern frontend systems**
+- Strong understanding of **authentication, state management & performance**
+- Comfortable with **Git workflows, CI basics, and production deployments**
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- React.js, Next.js (SSR / ISR)
+- Tailwind CSS, Responsive UI Systems
+- Component-driven architecture
+
+### Backend
+- Node.js, Express.js
+- REST APIs, Authentication & Authorization
+- MVC / Service-based architecture
+
+### Database
+- MongoDB, Mongoose
+- Schema design & query optimization
+
+### Tooling & Dev Practices
+- Git & GitHub (PR-based workflow)
+- CI/CD fundamentals
+- Postman, VS Code
+
+---
+
+## 🧱 Featured Projects
+
+### 🔹 SmartResume
+**Full-stack resume builder with authentication & dynamic templates**
+
+- Secure login and protected routes
+- Reusable, scalable React components
+- RESTful backend with MongoDB
+- Real-world UX and data flow
+
+**Tech:** React · Node.js · Express · MongoDB  
+🔗 Repo: https://github.com/YOUR_USERNAME/SmartResume
+
+---
+
+### 🔹 Astryora Opportunities
+**Mission-based platform focused on credibility & reputation building**
+
+- Conversion-optimized CTA system
+- Pre-login user flow & footer architecture
+- Scalable frontend structure
+- Tailwind animations with performance focus
+
+**Tech:** Next.js · Tailwind CSS · Node.js  
+🔗 Repo: https://github.com/YOUR_USERNAME/Astryora-Opportunities
+
+---
+
+## 📐 Code Philosophy
+
+- Readability over cleverness
+- Components over duplication
+- Predictable state and data flow
+- Performance is a feature, not an afterthought
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-languages/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" />
+</div>
+
+---
+
+## 🧪 Currently Working On
+
+- Building reusable frontend systems
+- Improving UI performance & accessibility
+- Strengthening backend architecture skills
+- Preparing for Full Stack / Software Engineer roles
+
+---
+
+## 📫 Let’s Connect
+
+- GitHub: https://github.com/YOUR_USERNAME
+- LinkedIn: https://linkedin.com/in/YOUR_LINK
+- Email: YOUR_EMAIL
+
+---
 
 ⭐ Always learning. Always building.
