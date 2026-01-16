@@ -7,10 +7,10 @@
 I design, build, and ship **production-grade full-stack applications**  
 with a strong focus on **clean architecture, performance, and real-world impact**.
 
-<a href="https://www.linkedin.com/in/YOUR_LINK">
+<a href="https://www.linkedin.com/in/nikhith-tangadipally-3363a4293/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:nikki020106@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
@@ -62,7 +62,6 @@ with a strong focus on **clean architecture, performance, and real-world impact*
 - Real-world UX and data flow
 
 **Tech:** React · Node.js · Express · MongoDB  
-🔗 Repo: https://github.com/YOUR_USERNAME/SmartResume
 
 ---
 
@@ -75,7 +74,6 @@ with a strong focus on **clean architecture, performance, and real-world impact*
 - Tailwind animations with performance focus
 
 **Tech:** Next.js · Tailwind CSS · Node.js  
-🔗 Repo: https://github.com/YOUR_USERNAME/Astryora-Opportunities
 
 ---
 
@@ -91,8 +89,8 @@ with a strong focus on **clean architecture, performance, and real-world impact*
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-languages/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nikhi0201&show_icons=true&hide_border=true&theme=transparent" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-languages/?username=nikhi0201&layout=compact&hide_border=true&theme=transparent" />
 </div>
 
 ---
@@ -108,9 +106,9 @@ with a strong focus on **clean architecture, performance, and real-world impact*
 
 ## 📫 Let’s Connect
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_LINK
-- Email: YOUR_EMAIL
+- GitHub: https://github.com/nikhi0201
+- LinkedIn: https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/nikhith-tangadipally-3363a4293/
+- Email: nikki020106@gmail.com
 
 ---
 
