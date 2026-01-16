@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Nikki
+# 👋 Hi, I'm Nikhith Tangadipally
 
 ### Full Stack Engineer | MERN • Next.js • Scalable Web Systems
 
